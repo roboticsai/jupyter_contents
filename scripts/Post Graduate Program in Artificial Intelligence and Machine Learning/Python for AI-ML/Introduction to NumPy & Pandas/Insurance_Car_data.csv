@@ -1,0 +1,158 @@
+Manufacturer,Model,Fuel capacity,Fuel efficiency,Price in thousands,Wheelbase
+Acura        ,Integra          ,13.2,28,21.5,101.2
+Acura        ,TL               ,17.2,25,28.4,108.1
+Acura        ,CL               ,17.2,26,,106.9
+Acura        ,RL               ,18,22,42,114.6
+Audi         ,A4               ,16.4,27,23.99,102.6
+Audi         ,A6               ,18.5,22,33.95,108.7
+Audi         ,A8               ,23.7,21,62,113
+BMW          ,323i             ,16.6,26,26.99,107.3
+BMW          ,328i             ,16.6,24,33.4,107.3
+BMW          ,528i             ,18.5,25,38.9,111.4
+Buick        ,Century          ,17.5,25,21.975,109
+Buick        ,Regal            ,17.5,23,25.3,109
+Buick        ,Park Avenue      ,18.5,24,31.965,113.8
+Buick        ,LeSabre          ,17.5,25,27.885,112.2
+Cadillac     ,DeVille          ,18.5,22,39.895,115.3
+Cadillac     ,Seville          ,18.5,22,44.475,112.2
+Cadillac     ,Eldorado         ,19,22,39.665,108
+Cadillac     ,Catera           ,18,22,31.01,107.4
+Cadillac     ,Escalade         ,30,15,46.225,117.5
+Chevrolet    ,Cavalier         ,14.3,27,13.26,104.1
+Chevrolet    ,Malibu           ,15,25,16.535,107
+Chevrolet    ,Lumina           ,16.6,25,18.89,107.5
+Chevrolet    ,Monte Carlo      ,17,27,19.39,110.5
+Chevrolet    ,Camaro           ,16.8,25,24.34,101.1
+Chevrolet    ,Corvette         ,19.1,22,45.705,104.5
+Chevrolet    ,Prizm            ,13.2,33,13.96,97.1
+Chevrolet    ,Metro            ,10.3,45,9.235,93.1
+Chevrolet    ,Impala           ,17,27,18.89,110.5
+Chrysler     ,Sebring Coupe    ,15.9,24,19.84,103.7
+Chrysler     ,Sebring Conv.    ,16,24,24.495,106
+Chrysler     ,Concorde         ,17,26,22.245,113
+Chrysler     ,Cirrus           ,16,27,16.48,108
+Chrysler     ,LHS              ,17,23,28.34,113
+Chrysler     ,Town & Country   ,,,,
+Chrysler     ,300M             ,17,23,29.185,113
+Dodge        ,Neon             ,12.5,29,12.64,105
+Dodge        ,Avenger          ,15.9,24,19.045,103.7
+Dodge        ,Stratus          ,16,24,20.23,108
+Dodge        ,Intrepid         ,17,,22.505,113
+Dodge        ,Viper            ,19,16,69.725,96.2
+Dodge        ,Ram Pickup       ,26,17,19.46,138.7
+Dodge        ,Ram Wagon        ,32,15,21.315,109.6
+Dodge        ,Ram Van          ,32,16,18.575,127.2
+Dodge        ,Dakota           ,22,19,16.98,131
+Dodge        ,Durango          ,25,17,26.31,115.7
+Dodge        ,Caravan          ,20,24,19.565,113.3
+Ford         ,Escort           ,12.7,30,12.07,98.4
+Ford         ,Mustang          ,15.7,24,21.56,101.3
+Ford         ,Contour          ,15,25,17.035,106.5
+Ford         ,Taurus           ,16,24,17.885,108.5
+Ford         ,Focus            ,13.2,30,12.315,103
+Ford         ,Crown Victoria   ,19,21,22.195,114.7
+Ford         ,Explorer         ,21,19,31.93,111.6
+Ford         ,Windstar         ,26,21,21.41,120.7
+Ford         ,Expedition       ,26,16,36.135,119
+Ford         ,Ranger           ,20,23,12.05,117.5
+Ford         ,F-Series         ,25.1,18,26.935,138.5
+Honda        ,Civic            ,11.9,32,12.885,103.2
+Honda        ,Accord           ,17.1,27,15.35,106.9
+Honda        ,CR-V             ,15.3,24,20.55,103.2
+Honda        ,Passport         ,21.1,19,26.6,106.4
+Honda        ,Odyssey          ,20,23,26,118.1
+Hyundai      ,Accent           ,11.9,31,9.699,96.1
+Hyundai      ,Elantra          ,14.5,27,11.799,100.4
+Hyundai      ,Sonata           ,17.2,25,14.999,106.3
+Infiniti     ,I30              ,18.5,25,29.465,108.3
+Jaguar       ,S-Type           ,18.4,21,42.8,114.5
+Jeep         ,Wrangler         ,19,17,14.46,93.4
+Jeep         ,Cherokee         ,20,20,21.62,101.4
+Jeep         ,Grand Cherokee   ,20.5,19,26.895,105.9
+Lexus        ,ES300            ,18.5,23,31.505,105.1
+Lexus        ,GS300            ,19.8,23,37.805,110.2
+Lexus        ,GS400            ,19.8,21,46.305,110.2
+Lexus        ,LS400            ,22.5,22,54.005,112.2
+Lexus        ,LX470            ,25.4,15,60.105,112.2
+Lexus        ,RX300            ,17.2,21,34.605,103
+Lincoln      ,Continental      ,20,22,39.08,109
+Lincoln      ,Town car         ,19,21,43.33,117.7
+Lincoln      ,Navigator        ,30,15,42.66,119
+Mitsubishi   ,Mirage           ,13.2,30,13.987,98.4
+Mitsubishi   ,Eclipse          ,15.9,24,19.047,100.8
+Mitsubishi   ,Galant           ,16.3,25,17.357,103.7
+Mitsubishi   ,Diamante         ,19,22,24.997,107.1
+Mitsubishi   ,3000GT           ,19.8,21,25.45,97.2
+Mitsubishi   ,Montero          ,24.3,18,31.807,107.3
+Mitsubishi   ,Montero Sport    ,19.5,20,22.527,107.3
+Mercury      ,Mystique         ,15,28,16.24,106.5
+Mercury      ,Cougar           ,16,30,16.54,106.4
+Mercury      ,Sable            ,16,24,19.035,108.5
+Mercury      ,Grand Marquis    ,19,21,22.605,114.7
+Mercury      ,Mountaineer      ,21,18,27.56,111.6
+Mercury      ,Villager         ,20,21,22.51,112.2
+Mercedes-Benz,C-Class          ,16.4,26,31.75,105.9
+Mercedes-Benz,E-Class          ,21.1,25,49.9,111.5
+Mercedes-Benz,S-Class          ,23.2,21,69.7,121.5
+Mercedes-Benz,SL-Class         ,21.1,20,82.6,99
+Mercedes-Benz,SLK              ,15.9,26,38.9,94.5
+Mercedes-Benz,SLK230           ,14,27,41,94.5
+Mercedes-Benz,CLK Coupe        ,16.4,26,41.6,105.9
+Mercedes-Benz,CL500            ,23.2,20,85.5,113.6
+Mercedes-Benz,M-Class          ,19,20,35.3,111
+Nissan       ,Sentra           ,13.2,30,13.499,99.8
+Nissan       ,Altima           ,15.9,25,20.39,103.1
+Nissan       ,Maxima           ,18.5,25,26.249,108.3
+Nissan       ,Quest            ,20,21,26.399,112.2
+Nissan       ,Pathfinder       ,21,19,29.299,106.3
+Nissan       ,Xterra           ,19.4,18,22.799,104.3
+Nissan       ,Frontier         ,19.4,18,17.89,116.1
+Oldsmobile   ,Cutlass          ,15.2,25,18.145,107
+Oldsmobile   ,Intrigue         ,18,,24.15,109
+Oldsmobile   ,Alero            ,15,27,18.27,107
+Oldsmobile   ,Aurora           ,18.5,22,36.229,113.8
+Oldsmobile   ,Bravada          ,17.5,19,31.598,107
+Oldsmobile   ,Silhouette       ,25,22,25.345,120
+Plymouth     ,Neon             ,12.5,29,12.64,105
+Plymouth     ,Breeze           ,16,27,16.08,108
+Plymouth     ,Voyager          ,20,24,18.85,113.3
+Plymouth     ,Prowler          ,12,21,43,113.3
+Pontiac      ,Sunfire          ,15,27,21.61,104.1
+Pontiac      ,Grand Am         ,15.2,25,19.72,107
+Pontiac      ,Firebird         ,16.8,25,25.31,101.1
+Pontiac      ,Grand Prix       ,18,25,21.665,110.5
+Pontiac      ,Bonneville       ,17.5,24,23.755,112.2
+Pontiac      ,Montana          ,25,23,25.635,120
+Porsche      ,Boxter           ,17,22,41.43,95.2
+Porsche      ,Carrera Coupe    ,17,21,71.02,92.6
+Porsche      ,Carrera Cabriolet,17,23,74.97,92.6
+Saab         ,05-Sep,18.5,23,33.12,106.4
+Saab         ,03-Sep,16.9,23,26.1,102.6
+Saturn       ,SL               ,12.1,33,10.685,102.4
+Saturn       ,SC               ,12.1,33,12.535,102.4
+Saturn       ,SW               ,12.1,31,14.29,102.4
+Saturn       ,LW               ,13.1,27,18.835,106.5
+Saturn       ,LS               ,13.1,28,15.01,106.5
+Subaru       ,Outback          ,16.9,25,22.695,103.5
+Subaru       ,Forester         ,15.9,24,20.095,99.4
+Toyota       ,Corolla          ,13.2,33,13.108,97
+Toyota       ,Camry            ,18.5,27,17.518,105.2
+Toyota       ,Avalon           ,18.5,26,25.545,107.1
+Toyota       ,Celica           ,14.5,31,16.875,102.4
+Toyota       ,Tacoma           ,15.1,23,11.528,103.3
+Toyota       ,Sienna           ,20.9,22,22.368,114.2
+Toyota       ,RAV4             ,15.3,27,16.888,94.9
+Toyota       ,4Runner          ,18.5,23,22.288,105.3
+Toyota       ,Land Cruiser     ,25.4,15,51.728,112.2
+Volkswagen   ,Golf             ,14.5,26,14.9,98.9
+Volkswagen   ,Jetta            ,14.5,26,16.7,98.9
+Volkswagen   ,Passat           ,16.4,27,21.2,106.4
+Volkswagen   ,Cabrio           ,13.7,26,19.99,97.4
+Volkswagen   ,GTI              ,14.6,26,17.5,98.9
+Volkswagen   ,Beetle           ,14.5,26,15.9,98.9
+Volvo        ,S40              ,15.8,25,23.4,100.5
+Volvo        ,V40              ,15.8,25,24.4,100.5
+Volvo        ,S70              ,17.9,25,27.5,104.9
+Volvo        ,V70              ,17.9,25,28.8,104.9
+Volvo        ,C70              ,18.5,23,45.5,104.9
+Volvo        ,S80              ,21.1,24,36,109.9

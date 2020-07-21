@@ -1,0 +1,158 @@
+Manufacturer,Model,Sales in thousands,4-year resale value,Latest Launch,Price in thousands
+Acura        ,Integra          ,16.919,16.36,02-Feb-14,21.5
+Acura        ,TL               ,39.384,19.875,06-Mar-15,28.4
+Acura        ,CL               ,14.114,18.225,01-Apr-14,
+Acura        ,RL               ,8.588,29.725,03-Oct-15,42
+Audi         ,A4               ,20.397,22.255,10-Aug-15,23.99
+Audi         ,A6               ,18.78,23.555,08-Sep-15,33.95
+Audi         ,A8               ,1.38,39,27-Feb-14,62
+BMW          ,323i             ,19.747,,28-Jun-15,26.99
+BMW          ,328i             ,9.231,28.675,29-Jan-14,33.4
+BMW          ,528i             ,17.527,36.125,04-Apr-15,38.9
+Buick        ,Century          ,91.561,12.475,11-Feb-15,21.975
+Buick        ,Regal            ,39.35,13.74,09-Mar-15,25.3
+Buick        ,Park Avenue      ,27.851,20.19,23-Mar-14,31.965
+Buick        ,LeSabre          ,83.257,13.36,23-Jul-15,27.885
+Cadillac     ,DeVille          ,63.729,22.525,23-Feb-14,39.895
+Cadillac     ,Seville          ,15.943,27.1,29-Apr-15,44.475
+Cadillac     ,Eldorado         ,6.536,25.725,27-Nov-15,39.665
+Cadillac     ,Catera           ,11.185,18.225,28-Sep-15,31.01
+Cadillac     ,Escalade         ,14.785,,17-Apr-14,46.225
+Chevrolet    ,Cavalier         ,145.519,9.25,17-Aug-15,13.26
+Chevrolet    ,Malibu           ,135.126,11.225,19-Mar-14,16.535
+Chevrolet    ,Lumina           ,24.629,10.31,24-May-15,18.89
+Chevrolet    ,Monte Carlo      ,42.593,11.525,22-Dec-15,19.39
+Chevrolet    ,Camaro           ,26.402,13.025,23-Oct-15,24.34
+Chevrolet    ,Corvette         ,17.947,36.225,05-Dec-14,45.705
+Chevrolet    ,Prizm            ,32.299,9.125,09-Nov-15,13.96
+Chevrolet    ,Metro            ,21.855,5.16,13-Apr-14,9.235
+Chevrolet    ,Impala           ,107.995,,18-Jun-15,18.89
+Chrysler     ,Sebring Coupe    ,7.854,12.36,16-Jan-14,19.84
+Chrysler     ,Sebring Conv.    ,32.775,14.18,17-Nov-15,24.495
+Chrysler     ,Concorde         ,31.148,13.725,06-Jun-14,22.245
+Chrysler     ,Cirrus           ,32.306,12.64,10-Jun-15,16.48
+Chrysler     ,LHS              ,13.462,17.325,05-Aug-14,28.34
+Chrysler     ,Town & Country   ,53.48,19.54,13-Jul-15,
+Chrysler     ,300M             ,30.696,,02-Oct-14,29.185
+Dodge        ,Neon             ,76.034,7.75,12-Dec-15,12.64
+Dodge        ,Avenger          ,4.734,12.545,07-Jan-14,19.045
+Dodge        ,Stratus          ,71.186,10.185,31-Oct-15,20.23
+Dodge        ,Intrepid         ,88.028,12.275,06-Feb-14,22.505
+Dodge        ,Viper            ,0.916,58.47,08-Jul-15,69.725
+Dodge        ,Ram Pickup       ,227.061,15.06,03-Jun-14,19.46
+Dodge        ,Ram Wagon        ,16.767,15.51,01-Jun-14,21.315
+Dodge        ,Ram Van          ,31.038,13.425,26-Jul-14,18.575
+Dodge        ,Dakota           ,111.313,11.26,25-Nov-15,16.98
+Dodge        ,Durango          ,101.323,,27-Jun-14,26.31
+Dodge        ,Caravan          ,181.749,12.025,09-Jan-15,19.565
+Ford         ,Escort           ,70.227,7.425,31-Mar-14,12.07
+Ford         ,Mustang          ,113.369,12.76,31-Jan-14,21.56
+Ford         ,Contour          ,35.068,8.835,20-Aug-14,17.035
+Ford         ,Taurus           ,245.815,10.055,20-Dec-15,17.885
+Ford         ,Focus            ,175.67,,22-Jul-14,12.315
+Ford         ,Crown Victoria   ,63.403,14.21,26-Sep-15,22.195
+Ford         ,Explorer         ,276.747,16.64,25-Apr-14,31.93
+Ford         ,Windstar         ,155.787,13.175,25-Feb-14,21.41
+Ford         ,Expedition       ,125.338,23.575,14-Sep-14,36.135
+Ford         ,Ranger           ,220.65,7.85,14-Jan-14,12.05
+Ford         ,F-Series         ,540.561,15.075,16-Aug-14,26.935
+Honda        ,Civic            ,199.685,9.85,21-Oct-15,12.885
+Honda        ,Accord           ,230.902,13.21,20-May-14,15.35
+Honda        ,CR-V             ,73.203,17.71,21-Mar-14,20.55
+Honda        ,Passport         ,12.855,17.525,10-Sep-14,26.6
+Honda        ,Odyssey          ,76.029,19.49,02-Aug-14,26
+Hyundai      ,Accent           ,41.184,5.86,09-Oct-14,9.699
+Hyundai      ,Elantra          ,66.692,7.825,15-Nov-15,11.799
+Hyundai      ,Sonata           ,29.45,8.91,14-Jun-14,14.999
+Infiniti     ,I30              ,23.713,19.69,15-Apr-14,29.465
+Jaguar       ,S-Type           ,15.467,,11-Mar-14,42.8
+Jeep         ,Wrangler         ,55.557,13.475,03-Apr-14,14.46
+Jeep         ,Cherokee         ,80.556,13.775,10-May-14,21.62
+Jeep         ,Grand Cherokee   ,157.04,18.81,12-Oct-15,26.895
+Lexus        ,ES300            ,24.072,26.975,07-Sep-14,31.505
+Lexus        ,GS300            ,12.698,32.075,05-Oct-14,37.805
+Lexus        ,GS400            ,3.334,,28-Nov-14,46.305
+Lexus        ,LS400            ,6.375,40.375,29-Mar-14,54.005
+Lexus        ,LX470            ,9.126,,30-Oct-14,60.105
+Lexus        ,RX300            ,51.238,,01-Apr-14,34.605
+Lincoln      ,Continental      ,13.798,20.525,08-Mar-14,39.08
+Lincoln      ,Town car         ,48.911,21.725,06-Apr-14,43.33
+Lincoln      ,Navigator        ,22.925,,23-Dec-14,42.66
+Mitsubishi   ,Mirage           ,26.232,8.325,23-Apr-14,13.987
+Mitsubishi   ,Eclipse          ,42.541,10.395,24-Nov-14,19.047
+Mitsubishi   ,Galant           ,55.616,10.595,29-Jan-14,17.357
+Mitsubishi   ,Diamante         ,5.711,16.575,28-Aug-14,24.997
+Mitsubishi   ,3000GT           ,0.11,20.94,29-Jun-14,25.45
+Mitsubishi   ,Montero          ,11.337,19.125,17-Jan-14,31.807
+Mitsubishi   ,Montero Sport    ,39.348,13.88,18-May-14,22.527
+Mercury      ,Mystique         ,14.351,8.8,19-Dec-14,16.24
+Mercury      ,Cougar           ,26.529,13.89,23-Feb-14,16.54
+Mercury      ,Sable            ,67.956,11.03,22-Sep-14,19.035
+Mercury      ,Grand Marquis    ,81.174,14.875,24-Jul-14,22.605
+Mercury      ,Mountaineer      ,27.609,20.43,13-Feb-08,27.56
+Mercury      ,Villager         ,20.38,14.795,20-Oct-09,22.51
+Mercedes-Benz,C-Class          ,18.392,26.05,24-Apr-15,31.75
+Mercedes-Benz,E-Class          ,27.602,41.45,07-Dec-15,49.9
+Mercedes-Benz,S-Class          ,16.774,50.375,13-Jun-15,69.7
+Mercedes-Benz,SL-Class         ,3.311,58.6,17-Mar-15,82.6
+Mercedes-Benz,SLK              ,7.998,,16-Jan-15,38.9
+Mercedes-Benz,SLK230           ,1.526,,08-Jun-15,41
+Mercedes-Benz,CLK Coupe        ,11.592,,07-Aug-15,41.6
+Mercedes-Benz,CL500            ,0.954,,04-Nov-15,85.5
+Mercedes-Benz,M-Class          ,28.976,,02-Oct-15,35.3
+Nissan       ,Sentra           ,42.643,8.45,31-Aug-15,13.499
+Nissan       ,Altima           ,88.094,11.295,08-Feb-15,20.39
+Nissan       ,Maxima           ,79.853,15.125,05-Jun-15,26.249
+Nissan       ,Quest            ,27.308,15.38,03-Jul-15,26.399
+Nissan       ,Pathfinder       ,42.574,17.81,25-Sep-15,29.299
+Nissan       ,Xterra           ,54.158,,24-Jan-15,22.799
+Nissan       ,Frontier         ,65.005,,27-Aug-15,17.89
+Oldsmobile   ,Cutlass          ,1.112,11.24,31-May-15,18.145
+Oldsmobile   ,Intrigue         ,38.554,,04-Jan-15,24.15
+Oldsmobile   ,Alero            ,80.255,,20-Oct-09,18.27
+Oldsmobile   ,Aurora           ,14.69,19.89,18-Feb-15,36.229
+Oldsmobile   ,Bravada          ,20.017,19.925,21-Sep-15,31.598
+Oldsmobile   ,Silhouette       ,24.361,15.24,25-Jun-15,25.345
+Plymouth     ,Neon             ,32.734,7.75,26-Apr-15,12.64
+Plymouth     ,Breeze           ,5.24,9.8,14-Nov-15,16.08
+Plymouth     ,Voyager          ,24.155,12.025,24-Apr-15,18.85
+Plymouth     ,Prowler          ,1.872,,27-Jun-14,43
+Pontiac      ,Sunfire          ,51.645,13.79,25-Jan-14,21.61
+Pontiac      ,Grand Am         ,131.097,10.29,26-Nov-14,19.72
+Pontiac      ,Firebird         ,19.911,17.805,16-Jun-14,25.31
+Pontiac      ,Grand Prix       ,92.364,14.01,15-Oct-14,21.665
+Pontiac      ,Bonneville       ,35.945,13.225,18-May-15,23.755
+Pontiac      ,Montana          ,39.572,,22-Jul-14,25.635
+Porsche      ,Boxter           ,8.982,41.25,19-Feb-14,41.43
+Porsche      ,Carrera Coupe    ,1.28,60.625,21-Dec-14,71.02
+Porsche      ,Carrera Cabriolet,1.866,67.55,07-Nov-15,74.97
+Saab         ,05-Sep,9.191,,11-Sep-14,33.12
+Saab         ,03-Sep,12.115,,06-Dec-15,26.1
+Saturn       ,SL               ,80.62,9.2,16-Aug-14,10.685
+Saturn       ,SC               ,24.546,10.59,16-Mar-15,12.535
+Saturn       ,SW               ,5.223,10.79,15-Jan-15,14.29
+Saturn       ,LW               ,8.472,,08-May-15,18.835
+Saturn       ,LS               ,49.989,,12-Apr-14,15.01
+Subaru       ,Outback          ,47.107,,07-Jul-15,22.695
+Subaru       ,Forester         ,33.028,,09-Oct-14,20.095
+Toyota       ,Corolla          ,142.535,10.025,04-Nov-15,13.108
+Toyota       ,Camry            ,247.994,13.245,02-Oct-15,17.518
+Toyota       ,Avalon           ,63.849,18.14,31-Aug-15,25.545
+Toyota       ,Celica           ,33.269,15.445,29-Dec-14,16.875
+Toyota       ,Tacoma           ,84.087,9.575,08-Jan-15,11.528
+Toyota       ,Sienna           ,65.119,,10-May-14,22.368
+Toyota       ,RAV4             ,25.106,13.325,05-Jun-15,16.888
+Toyota       ,4Runner          ,68.411,19.425,03-Jul-15,22.288
+Toyota       ,Land Cruiser     ,9.835,34.08,25-Sep-15,51.728
+Volkswagen   ,Golf             ,9.761,11.425,24-Jan-15,14.9
+Volkswagen   ,Jetta            ,83.721,13.24,27-Aug-15,16.7
+Volkswagen   ,Passat           ,51.102,16.725,30-Oct-14,21.2
+Volkswagen   ,Cabrio           ,9.569,16.575,31-May-15,19.99
+Volkswagen   ,GTI              ,5.596,13.76,04-Jan-15,17.5
+Volkswagen   ,Beetle           ,49.463,,20-Oct-15,15.9
+Volvo        ,S40              ,16.957,,18-Feb-15,23.4
+Volvo        ,V40              ,3.545,,21-Sep-15,24.4
+Volvo        ,S70              ,15.245,,24-Nov-14,27.5
+Volvo        ,V70              ,17.531,,25-Jun-15,28.8
+Volvo        ,C70              ,3.493,,26-Apr-15,45.5
+Volvo        ,S80              ,18.969,,14-Nov-15,36
